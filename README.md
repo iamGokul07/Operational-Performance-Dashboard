@@ -38,4 +38,12 @@ This project showcases the ability to independently analyze data, create KPIs,
 build interactive dashboards, and clearly communicate insights.
 The analytical approach is domain-agnostic and applicable to engineering or operational datasets.
 
+## Dashboard Preview
+
+![Dashboard Overview](dashboard_overview.png)
+
+![KPI and Trends](dashboard_kpis.png)
+
+
 > Power BI (.pbix) file available on request.
+
